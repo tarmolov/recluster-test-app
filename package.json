@@ -1,0 +1,10 @@
+{
+  "name": "recluster-test-app",
+  "description": "Test repository",
+  "license": "MIT",
+  "repository": "https://github.com/tarmolov/recluster-test-app",
+  "version": "0.0.1",
+  "devDependencies": {
+    "recluster": "0.4.5"
+  }
+}
